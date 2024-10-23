@@ -5,3 +5,13 @@
 * {
     font-family: 'Roboto', 'Times New Roman', sans-serif;
 }
+
+/*Background-color for heading and footer*/
+
+#heading {
+    background-color: #1F2937;
+}
+
+footer {
+    background-color: #1F2937;
+}
