@@ -8,10 +8,22 @@
 
 /*Background-color for heading and footer*/
 
-#heading {
+body {
     background-color: #1F2937;
+    color: #F9FAF8;
+}
+
+.header {
+    font-size: 24px;
+}
+
+.header-link {
+    font-size: 18px;
+    color: #F9FAF8;
+    margin-left: 250px;
 }
 
 footer {
     background-color: #1F2937;
+    color: #F9FAF8;
 }
