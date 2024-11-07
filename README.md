@@ -1,2 +1,2 @@
 # landing-page
-Odin project using CSS and flexbox.
+Odin project using CSS and/or flexbox.
