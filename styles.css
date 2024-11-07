@@ -9,7 +9,7 @@
 /*Background-color for heading and footer*/
 
 body {
-    background-color: #1F2937;
+    background-color: #642470;
     color: #F9FAF8;
 }
 
@@ -24,6 +24,23 @@ body {
 }
 
 footer {
-    background-color: #1F2937;
+    background-color: #642470;
     color: #F9FAF8;
+}
+
+#welcome {
+    font-size: 40px;
+    font-weight: 900;
+}
+
+#intro {
+    font-size: 20px;
+}
+
+/*format projects*/
+
+#projects {
+    background-color: #a3349e;
+    text-align: center;
+    font-size: 30px;
 }
